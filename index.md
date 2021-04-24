@@ -8,5 +8,17 @@ page_sections:
   image: "/uploads/2021/04/24/nerdco-io_logo_transparent.png"
   slug: ''
   caption: nerdco.io
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/04/24/nerdco-io_logo_transparent.png"
+  headline: nerdco.io cardano stake pool
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
