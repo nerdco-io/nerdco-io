@@ -5,7 +5,7 @@ date: 2021-04-24 16:00:00 -0600
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
-  headline: nerdco.io cardano stake pool
+  headline: cardano stake pool
   image:
     image: "/uploads/2021/04/24/nerdco-io_logo_transparent.png"
     alt_text: ''
