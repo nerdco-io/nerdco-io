@@ -7,7 +7,7 @@ page_sections:
   block: media-1
   image: "/uploads/2021/04/24/nerdco-io_logo_transparent.png"
   slug: ''
-  caption: nerdco.io
+  caption: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/04/24/nerdco-io_logo_transparent.png"
