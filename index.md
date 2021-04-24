@@ -9,7 +9,7 @@ page_sections:
   image:
     image: "/uploads/2021/04/24/nerdco-io_logo_transparent.png"
     alt_text: ''
-  content: 'our mission is '
+  content: ''
   cta:
     enabled: false
     url: ''
