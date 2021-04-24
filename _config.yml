@@ -3,7 +3,7 @@ title: nerdco.io
 author: nerdco.io
 email: support@nerdco.io
 description: nerdco.io is a cardano stake pool with a mission
-baseurl: ''
+baseurl: "/"
 url: nerdco.io
 defaults:
 - scope:
